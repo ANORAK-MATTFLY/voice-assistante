@@ -3,7 +3,6 @@ import os
 from time import ctime
 import time
 import playsound
-import speech_recognition as sr
 from gtts import gTTS
 import webbrowser
 import random
